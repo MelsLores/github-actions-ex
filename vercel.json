@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "buildCommand": "./mvnw clean package -DskipTests",
+  "outputDirectory": "target"
+}
